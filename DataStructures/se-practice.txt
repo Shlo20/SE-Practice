@@ -1,0 +1,38 @@
+﻿Identify what need the software is meeting
+
+
+For organizing tasks to work more efficiently. 
+
+
+Who uses it?
+
+
+Anyone can use the software. People who want to keep track of their tasks.
+
+
+
+
+Why does he use it? What is he trying to accomplish when he uses it?
+
+
+In order to organize tasks and differentiate between work for different dates and time. Order and efficiency for getting tasks done.
+
+
+What functions does your software provide to the user that help him achieve his 
+goal(s)?
+
+
+Easy organization and encourages time management. When keeping track of your
+Tasks, it is easier to do them.
+
+
+
+
+How does he use it? What steps does he go through in order to achieve his 
+goal(s)? What are the workflows he progresses through when using it?
+
+
+* Types out a task
+* Adds a time and a date to it
+* If the time or task is changed , can change name and time
+* When the task is completed, mark it as ‘done’.
